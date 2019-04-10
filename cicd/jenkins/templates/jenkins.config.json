@@ -21,7 +21,7 @@
       "scm": {
         "url": "https://github.com/BCDevOps/jenkins-pipeline-shared-lib.git"
       },
-      "defaultVersion": "master",
+      "defaultVersion": "cvarjao/develop",
       "implicit": true,
       "allowVersionOverride": true,
       "includeInChangesets": true
